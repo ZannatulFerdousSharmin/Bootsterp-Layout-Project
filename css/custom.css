@@ -1,0 +1,48 @@
+.service-section{
+	margin: 100px 0;
+}
+h6{
+    color: #f70303;
+    font-size: 25px;
+}
+h1{
+    color: #7171de;
+    font-weight: 400;
+}
+.service, .feature{
+	padding: 25px;
+}
+.service img{}
+h3{
+    font-size: 25px;
+    margin: 20px 0;
+}
+p{
+    font-size: 16px;
+}
+
+.feature-section, .partnar-section{
+	padding: 100px 0;
+}
+
+
+.partnar-section a{
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+}
+.partnar-section h1{
+	font-size: 70px;
+}
+
+.partners{
+	text-align: center;
+}
+
+@media (max-width: 767px;){
+.partnar-section h1{
+   font-size: 70px;
+}
+}
